@@ -1,0 +1,67 @@
+src/ethereum/forks/amsterdam/vm/__init__.py
+  s_31c919aa003eda::t_de1c6c9bf225f3 210
+  s_31c919aa003eda::t_9374f978b8add9 29,126-127,135-136
+  s_31c919aa003eda::t_61a14c25c6fa29 209,211-212
+  s_31c919aa003eda::t_056dd58a9d1488 227,231-233,239-241
+  s_31c919aa003eda::t_0c00437314ce39 307,311-313
+  s_31c919aa003eda::t_1303817c1fd77a 260
+  s_31c919aa003eda::t_581767dfb53475 175-176,188-189
+  s_31c919aa003eda::t_a3407b0da73dcc 151-152
+  s_31c919aa003eda::t_2918ed4d38bc7d 258
+  s_31c919aa003eda::t_5acb31dc85e7eb 228-230,308-310
+src/ethereum/forks/amsterdam/vm/interpreter.py
+  s_31c919aa003eda::t_ebd9b4c2d4e707 136
+  s_31c919aa003eda::t_a35cf527893285 35
+  s_31c919aa003eda::t_25fd0c84627913 144,153
+  s_31c919aa003eda::t_e8eb93f641e43b 159
+  s_31c919aa003eda::t_a6f865ec3c2a15 261
+  s_31c919aa003eda::t_df855f3d33d0ac 366
+  s_31c919aa003eda::t_1967cdecbd9f8e 105,111-112,114
+src/ethereum/forks/amsterdam/fork.py
+  s_31c919aa003eda::t_0d24f174753531 804,815-816,824
+  s_31c919aa003eda::t_a65257ff9ed5cf 1070-1071
+  s_31c919aa003eda::t_6ed62fcf1d4cdb 62-68
+  s_31c919aa003eda::t_e552a8a36896b8 805,825
+src/ethereum/forks/amsterdam/vm/instructions/system.py
+  s_31c919aa003eda::t_30ec94667e58fe 97-98,103
+  s_31c919aa003eda::t_9807ae3badc9b2 496,613,787,886
+  s_31c919aa003eda::t_af97623d450056 323-324
+  s_31c919aa003eda::t_c3f0c4be870b0e 349
+  s_31c919aa003eda::t_4cc8ac7243ff33 350-352
+  s_31c919aa003eda::t_85799fc34a29ec 115-118,127-132
+  s_31c919aa003eda::t_5bcd2160e6f2f0 23
+src/ethereum/forks/amsterdam/vm/eoa_delegation.py
+  s_31c919aa003eda::t_1978a005f1b946 126,139,148
+  s_31c919aa003eda::t_f702c0ba91a1c4 16
+src/ethereum/forks/amsterdam/vm/gas.py
+  s_31c919aa003eda::t_0b3f9a528b0159 77-78
+  s_31c919aa003eda::t_81e0dcc50d7a92 307,309
+  s_31c919aa003eda::t_d32b81f10e4426 330-335
+  s_31c919aa003eda::t_e99222deb6aba3 443-445,452-454
+  s_31c919aa003eda::t_91de52e6472a97 270-271
+  s_31c919aa003eda::t_54371a3a8eab9f 447-450
+  s_31c919aa003eda::t_455adf7f2281f4 457,472
+  s_31c919aa003eda::t_70b005f1b3d573 85-87
+  s_31c919aa003eda::t_ab326311535b36 131,134-141,145,157-210
+  s_31c919aa003eda::t_25710164001446 404
+  s_31c919aa003eda::t_af6829a4880e20 211-217,220-236
+  s_31c919aa003eda::t_975d86d5f7bb4a 251
+  s_31c919aa003eda::t_33c372acc90bd2 24
+  s_31c919aa003eda::t_20e39ffda99034 62-66,69-71,74,79-80,83-84,90-92,100-119
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "546a7e6df0da901474bee71cd3d0fc81e12180b3",
+  "prompts": {},
+  "sessions": {
+    "s_31c919aa003eda": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "adb62a8e-fd1e-4107-9701-62dde65fecae",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mandeepmourya007 <mandeepmourya007@gmail.com>"
+    }
+  }
+}
